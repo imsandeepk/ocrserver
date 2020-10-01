@@ -64,3 +64,4 @@ cf. [gosseract](https://github.com/otiai10/gosseract)
 # Documents
 
 - [API Endpoints](https://github.com/otiai10/ocrserver/wiki/API-Endpoints)
+# This is my first open source contribution.
